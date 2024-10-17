@@ -1,5 +1,8 @@
 ## *Biodiversity of nature reserves*
 
+![richness](https://github.com/user-attachments/assets/6f46a31e-a9ba-447a-adc9-555c4343d246)
+
+
 | *Reserve* | *Visimskiy*  | *Zhigulyovsky* |
 | ------------- | ------------- | ------------- |
 | Species richness | 533 | 1310 |
