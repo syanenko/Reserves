@@ -1,4 +1,4 @@
-## *Reserves biodiversity calculation*
+## *Reserves biodiversity*
 
 | *Reserve* | *Visimskiy*  | *Zhigulyovsky* |
 | ------------- | ------------- | ------------- |
