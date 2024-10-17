@@ -9,6 +9,7 @@
 #
 library(data.table)
 library(vegan)
+library(ggplot2)
 Sys.setlocale(locale = "Russian")
 
 # Clear
@@ -62,3 +63,15 @@ cat("\n- Unbiased Simpson\n")
 d <- transpose(data.frame(simpson.unb(res)))
 colnames(d) <- c("Visimskiy", "Zhigulyovsky")
 print(d, row.names = FALSE)
+
+# Richness chart
+data = data.frame(Reserve = names(S), Richness = transpose(S)[,1])
+p <- ggplot(data, aes(x=Reserve, y=Richness, fill=Reserve)) +
+       ggtitle("Reserves species richness") +
+       geom_bar(stat = "identity") +
+       scale_fill_manual(values=c("#0B0", "#56B4E9", "#E69F00")) +
+       theme(text=element_text(size=16, family="sans", face="italic"),
+             axis.title.x=element_blank(),
+             axis.title.y=element_blank(),
+             legend.position="none" )
+print(p)
