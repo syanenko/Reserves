@@ -1,4 +1,4 @@
-## *Nature reserves biodiversity*
+## *Biodiversity of nature reserves*
 
 | *Reserve* | *Visimskiy*  | *Zhigulyovsky* |
 | ------------- | ------------- | ------------- |
