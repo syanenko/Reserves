@@ -1,9 +1,6 @@
 ## *Biodiversity of nature reserves*
 
-_Calculated with R package ["Vegan"](https://github.com/vegandevs/vegan)._
-
 <!-- ![richness](https://github.com/user-attachments/assets/6f46a31e-a9ba-447a-adc9-555c4343d246) -->
-
 
 | *Reserve* | *Visimskiy*  | *Zhigulyovsky* |
 | ------------- | ------------- | ------------- |
@@ -15,3 +12,5 @@ _Calculated with R package ["Vegan"](https://github.com/vegandevs/vegan)._
 | Simpson index |  0.9981238 | 0.9992366 |
 | Inv. Simpson index | 533 | 1310 |
 | Unbiased Simpson index | 1 | 1 |
+
+_Calculated with R package ["Vegan"](https://github.com/vegandevs/vegan)._
