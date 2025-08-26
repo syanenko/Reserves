@@ -1,8 +1,6 @@
 ## *Biodiversity of nature reserves*
 
-Calculated with Vegan R package.
-
-https://github.com/vegandevs/vegan
+Calculated with [Vegan](https://github.com/vegandevs/vegan) R package.
 
 ![richness](https://github.com/user-attachments/assets/6f46a31e-a9ba-447a-adc9-555c4343d246)
 
