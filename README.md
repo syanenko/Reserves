@@ -2,7 +2,7 @@
 
 _Calculated with R package ["Vegan"](https://github.com/vegandevs/vegan)._
 
-![richness](https://github.com/user-attachments/assets/6f46a31e-a9ba-447a-adc9-555c4343d246)
+<!-- ![richness](https://github.com/user-attachments/assets/6f46a31e-a9ba-447a-adc9-555c4343d246) -->
 
 
 | *Reserve* | *Visimskiy*  | *Zhigulyovsky* |
